@@ -1,0 +1,59 @@
+2024-01-13 13:34:36,918 : INFO : test_home_page : Starting home page test
+2024-01-19 12:35:57,253 : INFO : Tests.Utilities.LoggerModule : All http links: 116, all unique http links:, 28
+2024-01-19 12:36:02,457 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/# is accessible. Status code: 200
+2024-01-19 12:36:07,199 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-19 12:36:08,697 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 12:36:10,470 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 12:36:12,090 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%9c%d7%a9%d7%9b%d7%95%d7%97-%d7%9c%d7%94%d7%9b%d7%97%d7%99%d7%a9/ is accessible. Status code: 200
+2024-01-19 12:36:13,657 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 12:36:14,636 : INFO : Tests.Utilities.LoggerModule : Link https://www.youtube.com/channel/UCa6-draLJDKghoHQ4acR1qQ is accessible. Status code: 200
+2024-01-19 12:36:14,916 : INFO : Tests.Utilities.LoggerModule : Link http://vimeo.com/user/68957132/folder/9945573 is accessible. Status code: 200
+2024-01-19 12:36:16,261 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%94-%d7%a7%d7%a0%d7%99%d7%94-%d7%95%d7%95%d7%a1%d7%98-%d7%9e%d7%9b%d7%91%d7%93/ is accessible. Status code: 200
+2024-01-19 12:36:17,497 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA/ is accessible. Status code: 200
+2024-01-19 12:36:18,845 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a9%d7%a0%d7%90%d7%94-%d7%91%d7%aa-%d7%a9%d7%a0%d7%95%d7%aa-%d7%90%d7%9c%d7%a4%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 12:36:20,536 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%A4%D7%A8%D7%95%D7%99%D7%99%D7%A7%D7%98%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-19 12:36:21,536 : ERROR : Tests.Utilities.LoggerModule : Link https://twitter.com/laitman_co_il?lang=he is NOT accessible. Status code: 400
+2024-01-19 12:36:26,630 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-19 12:36:27,872 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 12:36:29,211 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/book/ is accessible. Status code: 200
+2024-01-19 12:36:29,439 : INFO : Tests.Utilities.LoggerModule : Link http://www.kabbalah.info/common/privacy/he/ is accessible. Status code: 200
+2024-01-19 12:36:31,054 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/Antisemitism/book/ is accessible. Status code: 200
+2024-01-19 12:36:32,418 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a1%d7%99%d7%95%d7%98%d7%99%d7%9d-%d7%a7%d7%95%d7%9c%d7%a7%d7%98%d7%99%d7%91%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 12:36:38,994 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/#donoation_popup is accessible. Status code: 200
+2024-01-19 12:36:40,467 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a4%d7%a8%d7%95%d7%99%d7%99%d7%a7%d7%98%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 12:36:42,113 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-19 12:36:43,416 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a1%d7%93%d7%a8%d7%99-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa-%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%91%d7%a0%d7%99-%d7%91%d7%a8%d7%95%d7%9a-%d7%a7%d7%91%d7%9c%d7%94-%d7%9c%d7%a2%d7%9d/ is accessible. Status code: 200
+2024-01-19 12:36:44,233 : INFO : Tests.Utilities.LoggerModule : Link https://he.wikipedia.org/wiki/%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%97%D7%91%D7%A8%D7%AA%D7%99#%D7%94%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%94%D7%97%D7%91%D7%A8%D7%AA%D7%99_%D7%9B%D7%91%D7%A1%D7%99%D7%A1_%D7%9C%D7%90%D7%A0%D7%98%D7%99%D7%A9%D7%9E%D7%99%D7%95%D7%AA is accessible. Status code: 200
+2024-01-19 12:36:45,573 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%9e%d7%a9%d7%9c%d7%97%d7%aa-%d7%a9%d7%a2%d7%95%d7%a8%d7%a8%d7%94-%d7%a9%d7%a0%d7%90%d7%94/ is accessible. Status code: 200
+2024-01-19 12:36:47,747 : INFO : Tests.Utilities.LoggerModule : Link https://www.facebook.com/kabcoil is accessible. Status code: 200
+2024-01-19 12:36:49,164 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a6%d7%99%d7%98%d7%95%d7%98%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%a7%d7%95%d7%a8%d7%95%d7%aa-%d7%91%d7%a0%d7%95%d7%a9%d7%90-%d7%aa%d7%a4%d7%a7%d7%99%d7%93-%d7%a2%d7%9d-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/ is accessible. Status code: 200
+2024-01-19 12:36:50,478 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9c%d7%a2%d7%9e%d7%95%d7%93-%d7%95%d7%9c%d7%9e%d7%a8%d7%95%d7%93/ is accessible. Status code: 200
+2024-01-19 12:54:39,776 : INFO : Tests.Utilities.LoggerModule : All http links: 116, all unique http links:, 28
+2024-01-19 12:54:41,579 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%94-%d7%a7%d7%a0%d7%99%d7%94-%d7%95%d7%95%d7%a1%d7%98-%d7%9e%d7%9b%d7%91%d7%93/ is accessible. Status code: 200
+2024-01-19 12:54:43,238 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%9c%d7%a9%d7%9b%d7%95%d7%97-%d7%9c%d7%94%d7%9b%d7%97%d7%99%d7%a9/ is accessible. Status code: 200
+2024-01-19 12:54:48,022 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/# is accessible. Status code: 200
+2024-01-19 12:54:52,593 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-19 12:54:54,393 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a1%d7%99%d7%95%d7%98%d7%99%d7%9d-%d7%a7%d7%95%d7%9c%d7%a7%d7%98%d7%99%d7%91%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 12:54:54,699 : INFO : Tests.Utilities.LoggerModule : Link http://vimeo.com/user/68957132/folder/9945573 is accessible. Status code: 200
+2024-01-19 12:54:56,244 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 12:54:57,885 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-19 12:54:59,289 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/book/ is accessible. Status code: 200
+2024-01-19 12:55:00,873 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 12:55:01,694 : ERROR : Tests.Utilities.LoggerModule : Link https://twitter.com/laitman_co_il?lang=he is NOT accessible. Status code: 400
+2024-01-19 12:55:01,948 : INFO : Tests.Utilities.LoggerModule : Link http://www.kabbalah.info/common/privacy/he/ is accessible. Status code: 200
+2024-01-19 12:55:03,286 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA/ is accessible. Status code: 200
+2024-01-19 12:55:04,738 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a6%d7%99%d7%98%d7%95%d7%98%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%a7%d7%95%d7%a8%d7%95%d7%aa-%d7%91%d7%a0%d7%95%d7%a9%d7%90-%d7%aa%d7%a4%d7%a7%d7%99%d7%93-%d7%a2%d7%9d-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/ is accessible. Status code: 200
+2024-01-19 12:55:06,036 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 12:55:07,374 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%9e%d7%a9%d7%9c%d7%97%d7%aa-%d7%a9%d7%a2%d7%95%d7%a8%d7%a8%d7%94-%d7%a9%d7%a0%d7%90%d7%94/ is accessible. Status code: 200
+2024-01-19 12:55:08,663 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a9%d7%a0%d7%90%d7%94-%d7%91%d7%aa-%d7%a9%d7%a0%d7%95%d7%aa-%d7%90%d7%9c%d7%a4%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 12:55:13,418 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/#donoation_popup is accessible. Status code: 200
+2024-01-19 12:55:14,457 : INFO : Tests.Utilities.LoggerModule : Link https://www.facebook.com/kabcoil is accessible. Status code: 200
+2024-01-19 12:55:15,300 : INFO : Tests.Utilities.LoggerModule : Link https://he.wikipedia.org/wiki/%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%97%D7%91%D7%A8%D7%AA%D7%99#%D7%94%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%94%D7%97%D7%91%D7%A8%D7%AA%D7%99_%D7%9B%D7%91%D7%A1%D7%99%D7%A1_%D7%9C%D7%90%D7%A0%D7%98%D7%99%D7%A9%D7%9E%D7%99%D7%95%D7%AA is accessible. Status code: 200
+2024-01-19 12:55:16,944 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a4%d7%a8%d7%95%d7%99%d7%99%d7%a7%d7%98%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 12:55:21,659 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-19 12:55:22,995 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9c%d7%a2%d7%9e%d7%95%d7%93-%d7%95%d7%9c%d7%9e%d7%a8%d7%95%d7%93/ is accessible. Status code: 200
+2024-01-19 12:55:24,607 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 12:55:26,336 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%A4%D7%A8%D7%95%D7%99%D7%99%D7%A7%D7%98%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-19 12:55:28,034 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/Antisemitism/book/ is accessible. Status code: 200
+2024-01-19 12:55:29,358 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a1%d7%93%d7%a8%d7%99-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa-%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%91%d7%a0%d7%99-%d7%91%d7%a8%d7%95%d7%9a-%d7%a7%d7%91%d7%9c%d7%94-%d7%9c%d7%a2%d7%9d/ is accessible. Status code: 200
+2024-01-19 12:55:30,303 : INFO : Tests.Utilities.LoggerModule : Link https://www.youtube.com/channel/UCa6-draLJDKghoHQ4acR1qQ is accessible. Status code: 200

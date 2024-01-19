@@ -1,0 +1,36 @@
+2023-12-22 22:01:12,651 : INFO : test_home_page : Logo is displayed
+2023-12-22 22:03:20,140 : INFO : test_home_page : Logo is displayed
+2023-12-22 22:06:45,805 : INFO : test_home_page : Logo is displayed
+2024-01-13 14:05:47,119 : INFO : test_home_page : Starting home page test
+2024-01-13 14:07:02,411 : INFO : test_home_page : Starting home page test
+2024-01-13 14:12:24,060 : INFO : test_home_page : Starting home page test
+2024-01-13 14:29:39,774 : INFO : test_home_page : (video_width / page_width) * 100 = 100.0
+2024-01-13 14:29:39,774 : INFO : test_home_page : (video_width / video_height) * 100 = 56.2962962962963
+2024-01-13 14:31:30,502 : INFO : test_home_page : (video_width / page_width) * 100 = 100.0
+2024-01-13 14:31:30,502 : INFO : test_home_page : (video_width / video_height) * 100 = 56.2962962962963
+2024-01-13 14:34:37,391 : INFO : test_home_page : (video_width = 1080
+2024-01-13 14:34:37,391 : INFO : test_home_page : (video_height = 608
+2024-01-13 14:34:37,391 : INFO : test_home_page : (video_width / page_width) * 100 = 100.0
+2024-01-13 14:34:37,392 : INFO : test_home_page : (video_width / video_height) * 100 = 56.2962962962963
+2024-01-13 14:59:05,438 : INFO : test_home_page : video_width = 1080
+2024-01-13 14:59:05,438 : INFO : test_home_page : video_height = 608
+2024-01-13 14:59:05,439 : INFO : test_home_page : (video_width / page_width) * 100 = 100.0
+2024-01-13 14:59:05,439 : INFO : test_home_page : (video_width / video_height) * 100 = 56.2962962962963
+2024-01-13 15:06:35,172 : INFO : test_home_page : video_width = 1080
+2024-01-13 15:06:35,172 : INFO : test_home_page : video_height = 608
+2024-01-13 15:06:35,172 : INFO : test_home_page : (video_width / page_width) * 100 = 100.0
+2024-01-13 15:06:35,173 : INFO : test_home_page : (video_width / video_height) * 100 = 56.2962962962963
+2024-01-13 15:21:52,346 : INFO : test_home_page : video_width = 1080
+2024-01-13 15:21:52,346 : INFO : test_home_page : video_height = 608
+2024-01-13 15:21:52,346 : INFO : test_home_page : (video_width / page_width) * 100 = 100.0
+2024-01-13 15:21:52,346 : INFO : test_home_page : (video_width / video_height) * 100 = 56.2962962962963
+2024-01-13 15:27:05,786 : INFO : test_home_page : video_title: lmh SHvnAym yhvdym?
+2024-01-13 15:27:05,786 : INFO : test_home_page : video_width = 1080
+2024-01-13 15:27:05,786 : INFO : test_home_page : video_height = 608
+2024-01-13 15:27:05,787 : INFO : test_home_page : (video_width / page_width) * 100 = 100.0
+2024-01-13 15:27:05,787 : INFO : test_home_page : (video_width / video_height) * 100 = 56.2962962962963
+2024-01-13 15:33:44,586 : INFO : test_home_page : video_title: Why hate Jews?
+2024-01-13 15:33:44,586 : INFO : test_home_page : video_width = 1080
+2024-01-13 15:33:44,586 : INFO : test_home_page : video_height = 608
+2024-01-13 15:33:44,586 : INFO : test_home_page : (video_width / page_width) * 100 = 100.0
+2024-01-13 15:33:44,586 : INFO : test_home_page : (video_width / video_height) * 100 = 56.2962962962963
