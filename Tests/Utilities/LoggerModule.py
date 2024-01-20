@@ -11,6 +11,7 @@ def setup_logger():
         logger.addHandler(file_handler)
         formatter = logging.Formatter("%(asctime)s : %(levelname)s : %(name)s : %(message)s")
         file_handler.setFormatter(formatter)
-        # logger.setLevel(logging.INFO)  # Add to log file: info and above (error, critical)
-        logger.setLevel(logging.WARNING)
+        logger.setLevel(logging.INFO)  # Add to log file: info and above (error, critical)
+        # test
+        # logger.setLevel(logging.WARNING)
     return logger

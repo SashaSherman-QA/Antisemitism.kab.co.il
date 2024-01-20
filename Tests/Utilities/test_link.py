@@ -9,5 +9,5 @@ class TestLink(BaseClass):
     def test_link(self, get_driver):
         driver = get_driver
         home_page = HomePage(driver)
-        link = driver.find_element(*home_page.section0_link);
+        link = driver.find_element(*home_page.section0_link_locator);
         link.click()

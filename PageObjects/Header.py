@@ -1,9 +1,8 @@
 from selenium.webdriver.common.by import By
-from PageObjects.BasePage import BasePage
 from Tests.Utilities.BaseClass import BaseClass
 
 
-class Header(BasePage):
+class Header():
     # Locators - Top Menu
     logo = (By.ID, "logo")
     odot = (By.XPATH, r"//ul[@id='top-menu']//a[text()='אודות']")
@@ -14,9 +13,9 @@ class Header(BasePage):
 
     @staticmethod
     def check_header(driver):
-        assert BaseClass.wait_and_get_element(driver, *Header.logo).is_displayed(), "logo is missing"
-        assert BaseClass.wait_and_get_element(driver, *Header.odot).is_displayed(), "odot is missing"
-        assert BaseClass.wait_and_get_element(driver, *Header.maamarim).is_displayed(), "maamarim is missing"
-        assert BaseClass.wait_and_get_element(driver, *Header.mekorot).is_displayed(), "mekorot is missing"
-        assert BaseClass.wait_and_get_element(driver, *Header.projectim).is_displayed(), "projectim is missing"
-        assert BaseClass.wait_and_get_element(driver, *Header.sheelot_ve_tshuvot).is_displayed(), "sheelot ve tshuvot is missing"
+        assert BaseClass.wait_and_get_element(driver, Header.logo).is_displayed(), "logo is missing"
+        assert BaseClass.wait_and_get_element(driver, Header.odot).is_displayed(), "odot is missing"
+        assert BaseClass.wait_and_get_element(driver, Header.maamarim).is_displayed(), "maamarim is missing"
+        assert BaseClass.wait_and_get_element(driver, Header.mekorot).is_displayed(), "mekorot is missing"
+        assert BaseClass.wait_and_get_element(driver, Header.projectim).is_displayed(), "projectim is missing"
+        assert BaseClass.wait_and_get_element(driver, Header.sheelot_ve_tshuvot).is_displayed(), "sheelot ve tshuvot is missing"

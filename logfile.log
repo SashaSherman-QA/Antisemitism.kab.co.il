@@ -57,3 +57,452 @@
 2024-01-19 12:55:28,034 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/Antisemitism/book/ is accessible. Status code: 200
 2024-01-19 12:55:29,358 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a1%d7%93%d7%a8%d7%99-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa-%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%91%d7%a0%d7%99-%d7%91%d7%a8%d7%95%d7%9a-%d7%a7%d7%91%d7%9c%d7%94-%d7%9c%d7%a2%d7%9d/ is accessible. Status code: 200
 2024-01-19 12:55:30,303 : INFO : Tests.Utilities.LoggerModule : Link https://www.youtube.com/channel/UCa6-draLJDKghoHQ4acR1qQ is accessible. Status code: 200
+2024-01-19 13:57:55,620 : INFO : Tests.Utilities.LoggerModule : All http links: 116, all unique http links:, 28
+2024-01-19 13:57:57,313 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 13:57:58,945 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a4%d7%a8%d7%95%d7%99%d7%99%d7%a7%d7%98%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 13:58:00,587 : INFO : Tests.Utilities.LoggerModule : Link https://www.facebook.com/kabcoil is accessible. Status code: 200
+2024-01-19 13:58:00,812 : INFO : Tests.Utilities.LoggerModule : Link http://www.kabbalah.info/common/privacy/he/ is accessible. Status code: 200
+2024-01-19 13:58:05,255 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/# is accessible. Status code: 200
+2024-01-19 13:58:06,745 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/Antisemitism/book/ is accessible. Status code: 200
+2024-01-19 13:58:08,286 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%A4%D7%A8%D7%95%D7%99%D7%99%D7%A7%D7%98%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-19 13:58:12,669 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/#donoation_popup is accessible. Status code: 200
+2024-01-19 13:58:12,943 : INFO : Tests.Utilities.LoggerModule : Link http://vimeo.com/user/68957132/folder/9945573 is accessible. Status code: 200
+2024-01-19 13:58:14,257 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 13:58:18,850 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-19 13:58:19,938 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9c%d7%a2%d7%9e%d7%95%d7%93-%d7%95%d7%9c%d7%9e%d7%a8%d7%95%d7%93/ is accessible. Status code: 200
+2024-01-19 13:58:21,142 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a1%d7%99%d7%95%d7%98%d7%99%d7%9d-%d7%a7%d7%95%d7%9c%d7%a7%d7%98%d7%99%d7%91%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 13:58:26,349 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-19 13:58:27,657 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a6%d7%99%d7%98%d7%95%d7%98%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%a7%d7%95%d7%a8%d7%95%d7%aa-%d7%91%d7%a0%d7%95%d7%a9%d7%90-%d7%aa%d7%a4%d7%a7%d7%99%d7%93-%d7%a2%d7%9d-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/ is accessible. Status code: 200
+2024-01-19 13:58:28,280 : INFO : Tests.Utilities.LoggerModule : Link https://he.wikipedia.org/wiki/%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%97%D7%91%D7%A8%D7%AA%D7%99#%D7%94%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%94%D7%97%D7%91%D7%A8%D7%AA%D7%99_%D7%9B%D7%91%D7%A1%D7%99%D7%A1_%D7%9C%D7%90%D7%A0%D7%98%D7%99%D7%A9%D7%9E%D7%99%D7%95%D7%AA is accessible. Status code: 200
+2024-01-19 13:58:29,736 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 13:58:30,835 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/book/ is accessible. Status code: 200
+2024-01-19 13:58:32,013 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%9e%d7%a9%d7%9c%d7%97%d7%aa-%d7%a9%d7%a2%d7%95%d7%a8%d7%a8%d7%94-%d7%a9%d7%a0%d7%90%d7%94/ is accessible. Status code: 200
+2024-01-19 13:58:33,196 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%94-%d7%a7%d7%a0%d7%99%d7%94-%d7%95%d7%95%d7%a1%d7%98-%d7%9e%d7%9b%d7%91%d7%93/ is accessible. Status code: 200
+2024-01-19 13:58:33,954 : INFO : Tests.Utilities.LoggerModule : Link https://www.youtube.com/channel/UCa6-draLJDKghoHQ4acR1qQ is accessible. Status code: 200
+2024-01-19 13:58:35,536 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-19 13:58:36,611 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 13:58:37,665 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA/ is accessible. Status code: 200
+2024-01-19 13:58:38,846 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%9c%d7%a9%d7%9b%d7%95%d7%97-%d7%9c%d7%94%d7%9b%d7%97%d7%99%d7%a9/ is accessible. Status code: 200
+2024-01-19 13:58:39,965 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a1%d7%93%d7%a8%d7%99-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa-%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%91%d7%a0%d7%99-%d7%91%d7%a8%d7%95%d7%9a-%d7%a7%d7%91%d7%9c%d7%94-%d7%9c%d7%a2%d7%9d/ is accessible. Status code: 200
+2024-01-19 13:58:41,152 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a9%d7%a0%d7%90%d7%94-%d7%91%d7%aa-%d7%a9%d7%a0%d7%95%d7%aa-%d7%90%d7%9c%d7%a4%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 20:15:01,510 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-19 20:15:01,556 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  aykh yytkn shbshnt 2023
+2024-01-19 20:15:01,603 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  hptrvn lshnat yshral
+2024-01-19 20:20:20,295 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-19 20:20:20,346 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  aykh yytkn shbshnt 2023
+2024-01-19 20:20:20,392 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  hptrvn lshnat yshral
+2024-01-19 20:28:22,494 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-19 20:28:22,516 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  aykh yytkn shbshnt 2023
+2024-01-19 20:28:22,539 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  hptrvn lshnat yshral
+2024-01-19 20:29:22,317 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-19 20:29:22,342 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  aykh yytkn shbshnt 2023
+2024-01-19 20:29:22,364 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  hptrvn lshnat yshral
+2024-01-19 20:29:24,093 : INFO : Tests.Utilities.LoggerModule : video_title: Why hate Jews?
+2024-01-19 20:29:24,094 : INFO : Tests.Utilities.LoggerModule : video_width = 1080
+2024-01-19 20:29:24,094 : INFO : Tests.Utilities.LoggerModule : video_height = 608
+2024-01-19 20:29:24,094 : INFO : Tests.Utilities.LoggerModule : (video_width / page_width) * 100 = 100.0
+2024-01-19 20:29:24,094 : INFO : Tests.Utilities.LoggerModule : (video_width / video_height) * 100 = 56.2962962962963
+2024-01-19 20:29:24,884 : INFO : Tests.Utilities.LoggerModule : All http links: 116, all unique http links:, 28
+2024-01-19 20:29:25,964 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA/ is accessible. Status code: 200
+2024-01-19 20:29:26,979 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a1%d7%93%d7%a8%d7%99-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa-%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%91%d7%a0%d7%99-%d7%91%d7%a8%d7%95%d7%9a-%d7%a7%d7%91%d7%9c%d7%94-%d7%9c%d7%a2%d7%9d/ is accessible. Status code: 200
+2024-01-19 20:29:28,617 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 20:29:28,881 : INFO : Tests.Utilities.LoggerModule : Link http://www.kabbalah.info/common/privacy/he/ is accessible. Status code: 200
+2024-01-19 20:29:30,259 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a4%d7%a8%d7%95%d7%99%d7%99%d7%a7%d7%98%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 20:29:32,021 : INFO : Tests.Utilities.LoggerModule : Link https://www.facebook.com/kabcoil is accessible. Status code: 200
+2024-01-19 20:29:33,287 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a9%d7%a0%d7%90%d7%94-%d7%91%d7%aa-%d7%a9%d7%a0%d7%95%d7%aa-%d7%90%d7%9c%d7%a4%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 20:29:34,965 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%A4%D7%A8%D7%95%D7%99%D7%99%D7%A7%D7%98%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-19 20:29:36,610 : INFO : Tests.Utilities.LoggerModule : Link https://he.wikipedia.org/wiki/%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%97%D7%91%D7%A8%D7%AA%D7%99#%D7%94%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%94%D7%97%D7%91%D7%A8%D7%AA%D7%99_%D7%9B%D7%91%D7%A1%D7%99%D7%A1_%D7%9C%D7%90%D7%A0%D7%98%D7%99%D7%A9%D7%9E%D7%99%D7%95%D7%AA is accessible. Status code: 200
+2024-01-19 20:29:37,998 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 20:29:39,272 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a6%d7%99%d7%98%d7%95%d7%98%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%a7%d7%95%d7%a8%d7%95%d7%aa-%d7%91%d7%a0%d7%95%d7%a9%d7%90-%d7%aa%d7%a4%d7%a7%d7%99%d7%93-%d7%a2%d7%9d-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/ is accessible. Status code: 200
+2024-01-19 20:29:43,674 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/#donoation_popup is accessible. Status code: 200
+2024-01-19 20:29:44,761 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 20:29:45,948 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%9e%d7%a9%d7%9c%d7%97%d7%aa-%d7%a9%d7%a2%d7%95%d7%a8%d7%a8%d7%94-%d7%a9%d7%a0%d7%90%d7%94/ is accessible. Status code: 200
+2024-01-19 20:29:47,598 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-19 20:29:48,735 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/book/ is accessible. Status code: 200
+2024-01-19 20:29:53,196 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-19 20:29:54,331 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9c%d7%a2%d7%9e%d7%95%d7%93-%d7%95%d7%9c%d7%9e%d7%a8%d7%95%d7%93/ is accessible. Status code: 200
+2024-01-19 20:29:58,863 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/# is accessible. Status code: 200
+2024-01-19 20:30:00,037 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%94-%d7%a7%d7%a0%d7%99%d7%94-%d7%95%d7%95%d7%a1%d7%98-%d7%9e%d7%9b%d7%91%d7%93/ is accessible. Status code: 200
+2024-01-19 20:30:00,718 : INFO : Tests.Utilities.LoggerModule : Link https://www.youtube.com/channel/UCa6-draLJDKghoHQ4acR1qQ is accessible. Status code: 200
+2024-01-19 20:30:02,160 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a1%d7%99%d7%95%d7%98%d7%99%d7%9d-%d7%a7%d7%95%d7%9c%d7%a7%d7%98%d7%99%d7%91%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-19 20:30:03,642 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/Antisemitism/book/ is accessible. Status code: 200
+2024-01-19 20:30:05,083 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-19 20:30:09,819 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-19 20:30:10,990 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%9c%d7%a9%d7%9b%d7%95%d7%97-%d7%9c%d7%94%d7%9b%d7%97%d7%99%d7%a9/ is accessible. Status code: 200
+2024-01-19 20:30:11,290 : INFO : Tests.Utilities.LoggerModule : Link http://vimeo.com/user/68957132/folder/9945573 is accessible. Status code: 200
+2024-01-20 10:26:38,131 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-20 10:26:38,148 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  hshynvy mtchyl bmvdavt
+2024-01-20 10:26:38,203 : INFO : Tests.Utilities.LoggerModule : Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-20 10:29:33,212 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-20 10:29:33,229 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  hshynvy mtchyl bmvdavt
+2024-01-20 10:29:33,276 : INFO : Tests.Utilities.LoggerModule : Locators List: Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-20 10:29:33,323 : INFO : Tests.Utilities.LoggerModule : Locators List: Element with following locator was displayed properly:  hshynvy mtchyl bmvdavt
+2024-01-20 11:18:46,249 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 11:18:46,249 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 11:18:46,249 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 26.041666666666668
+2024-01-20 11:18:46,249 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0
+2024-01-20 11:24:57,111 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 11:24:57,112 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 11:24:57,112 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 11:24:57,112 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 26.041666666666668
+2024-01-20 11:24:57,112 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0
+2024-01-20 11:31:39,353 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 11:31:39,353 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 11:31:39,361 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 11:31:39,361 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 26.041666666666668
+2024-01-20 11:31:39,361 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0
+2024-01-20 11:31:39,396 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 11:31:39,398 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 11:31:39,398 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 11:31:39,398 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 26.041666666666668
+2024-01-20 11:31:39,398 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0
+2024-01-20 14:01:13,482 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 14:01:13,482 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 14:01:13,483 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 14:01:13,483 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 26.041666666666668
+2024-01-20 14:01:13,483 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0
+2024-01-20 14:01:13,505 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 14:01:13,505 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 14:01:13,505 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 14:01:13,505 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 26.041666666666668
+2024-01-20 14:01:13,505 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0
+2024-01-20 14:06:52,567 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 14:06:52,568 : INFO : Tests.Utilities.LoggerModule : page_width = 974
+2024-01-20 14:06:52,568 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 14:06:52,568 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 51.33470225872689, Expected: 20
+2024-01-20 14:06:52,568 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 14:06:52,583 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 14:06:52,583 : INFO : Tests.Utilities.LoggerModule : page_width = 974
+2024-01-20 14:06:52,583 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 14:06:52,583 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 51.33470225872689, Expected: 20
+2024-01-20 14:06:52,583 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 14:18:18,554 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 14:18:18,555 : INFO : Tests.Utilities.LoggerModule : page_width = 974
+2024-01-20 14:18:18,555 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 14:18:18,555 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 51.33470225872689, Expected: 20
+2024-01-20 14:18:18,555 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 14:18:18,564 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 14:18:18,565 : INFO : Tests.Utilities.LoggerModule : page_width = 974
+2024-01-20 14:18:18,565 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 14:18:18,565 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 51.33470225872689, Expected: 20
+2024-01-20 14:18:18,565 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 14:28:18,525 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 14:28:18,525 : INFO : Tests.Utilities.LoggerModule : page_width = 974
+2024-01-20 14:28:18,526 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 14:28:18,526 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 51.33470225872689, Expected: 20
+2024-01-20 14:28:18,526 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 14:28:18,538 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 14:28:18,540 : INFO : Tests.Utilities.LoggerModule : page_width = 974
+2024-01-20 14:28:18,540 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 14:28:18,540 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 51.33470225872689, Expected: 20
+2024-01-20 14:28:18,540 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 14:38:12,508 : INFO : Tests.Utilities.LoggerModule : image_width = 386
+2024-01-20 14:38:12,508 : INFO : Tests.Utilities.LoggerModule : page_width = 500
+2024-01-20 14:38:12,509 : INFO : Tests.Utilities.LoggerModule : image_height = 231
+2024-01-20 14:38:12,509 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 77.2, Expected: 20
+2024-01-20 14:38:12,509 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 59.84455958549223, Expected: 50
+2024-01-20 14:38:12,522 : INFO : Tests.Utilities.LoggerModule : image_width = 386
+2024-01-20 14:38:12,523 : INFO : Tests.Utilities.LoggerModule : page_width = 500
+2024-01-20 14:38:12,523 : INFO : Tests.Utilities.LoggerModule : image_height = 231
+2024-01-20 14:38:12,523 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 77.2, Expected: 20
+2024-01-20 14:38:12,523 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 59.84455958549223, Expected: 50
+2024-01-20 14:42:45,631 : INFO : Tests.Utilities.LoggerModule : image_width = 386
+2024-01-20 14:42:45,631 : INFO : Tests.Utilities.LoggerModule : page_width = 500
+2024-01-20 14:42:45,631 : INFO : Tests.Utilities.LoggerModule : image_height = 231
+2024-01-20 14:42:45,631 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 77.2, Expected: 20
+2024-01-20 14:42:45,632 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 59.84455958549223, Expected: 50
+2024-01-20 14:42:45,716 : INFO : Tests.Utilities.LoggerModule : image_width = 386
+2024-01-20 14:42:45,716 : INFO : Tests.Utilities.LoggerModule : page_width = 500
+2024-01-20 14:42:45,716 : INFO : Tests.Utilities.LoggerModule : image_height = 231
+2024-01-20 14:42:45,716 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 77.2, Expected: 20
+2024-01-20 14:42:45,716 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 59.84455958549223, Expected: 50
+2024-01-20 14:54:30,764 : INFO : Tests.Utilities.LoggerModule : image_width = 386
+2024-01-20 14:54:30,764 : INFO : Tests.Utilities.LoggerModule : page_width = 500
+2024-01-20 14:54:30,764 : INFO : Tests.Utilities.LoggerModule : image_height = 231
+2024-01-20 14:54:30,764 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 77.2, Expected: 20
+2024-01-20 14:54:30,764 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 59.84455958549223, Expected: 50
+2024-01-20 14:54:30,778 : INFO : Tests.Utilities.LoggerModule : image_width = 386
+2024-01-20 14:54:30,780 : INFO : Tests.Utilities.LoggerModule : page_width = 500
+2024-01-20 14:54:30,780 : INFO : Tests.Utilities.LoggerModule : image_height = 231
+2024-01-20 14:54:30,780 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 77.2, Expected: 20
+2024-01-20 14:54:30,780 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 59.84455958549223, Expected: 50
+2024-01-20 15:01:48,649 : INFO : Tests.Utilities.LoggerModule : image_width = 386
+2024-01-20 15:01:48,649 : INFO : Tests.Utilities.LoggerModule : page_width = 500
+2024-01-20 15:01:48,649 : INFO : Tests.Utilities.LoggerModule : image_height = 231
+2024-01-20 15:01:48,649 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 77.2, Expected: 20
+2024-01-20 15:01:48,650 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 59.84455958549223, Expected: 50
+2024-01-20 15:01:48,664 : INFO : Tests.Utilities.LoggerModule : image_width = 386
+2024-01-20 15:01:48,664 : INFO : Tests.Utilities.LoggerModule : page_width = 500
+2024-01-20 15:01:48,664 : INFO : Tests.Utilities.LoggerModule : image_height = 231
+2024-01-20 15:01:48,664 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 77.2, Expected: 20
+2024-01-20 15:01:48,664 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 59.84455958549223, Expected: 50
+2024-01-20 15:04:14,105 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 500
+2024-01-20 15:04:14,151 : INFO : Tests.Utilities.LoggerModule : image_width = 386
+2024-01-20 15:04:14,152 : INFO : Tests.Utilities.LoggerModule : page_width = 500
+2024-01-20 15:04:14,152 : INFO : Tests.Utilities.LoggerModule : image_height = 231
+2024-01-20 15:04:14,152 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 77.2, Expected: 20
+2024-01-20 15:04:14,152 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 59.84455958549223, Expected: 50
+2024-01-20 15:04:14,166 : INFO : Tests.Utilities.LoggerModule : image_width = 386
+2024-01-20 15:04:14,166 : INFO : Tests.Utilities.LoggerModule : page_width = 500
+2024-01-20 15:04:14,166 : INFO : Tests.Utilities.LoggerModule : image_height = 231
+2024-01-20 15:04:14,166 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 77.2, Expected: 20
+2024-01-20 15:04:14,166 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 59.84455958549223, Expected: 50
+2024-01-20 15:11:42,904 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 309
+2024-01-20 15:11:42,948 : INFO : Tests.Utilities.LoggerModule : image_width = 233
+2024-01-20 15:11:42,948 : INFO : Tests.Utilities.LoggerModule : page_width = 309
+2024-01-20 15:11:42,948 : INFO : Tests.Utilities.LoggerModule : image_height = 140
+2024-01-20 15:11:42,948 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 75.40453074433657, Expected: 20
+2024-01-20 15:11:42,948 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.08583690987125, Expected: 50
+2024-01-20 15:11:42,979 : INFO : Tests.Utilities.LoggerModule : image_width = 233
+2024-01-20 15:11:42,979 : INFO : Tests.Utilities.LoggerModule : page_width = 309
+2024-01-20 15:11:42,979 : INFO : Tests.Utilities.LoggerModule : image_height = 140
+2024-01-20 15:11:42,979 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 75.40453074433657, Expected: 20
+2024-01-20 15:11:42,979 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.08583690987125, Expected: 50
+2024-01-20 15:12:38,416 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 929
+2024-01-20 15:12:38,519 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 15:12:38,520 : INFO : Tests.Utilities.LoggerModule : page_width = 929
+2024-01-20 15:12:38,520 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 15:12:38,520 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 53.821313240043054, Expected: 20
+2024-01-20 15:12:38,520 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 15:12:38,530 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 15:12:38,531 : INFO : Tests.Utilities.LoggerModule : page_width = 929
+2024-01-20 15:12:38,531 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 15:12:38,531 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 53.821313240043054, Expected: 20
+2024-01-20 15:12:38,531 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 15:13:37,873 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 309
+2024-01-20 15:13:37,923 : INFO : Tests.Utilities.LoggerModule : image_width = 233
+2024-01-20 15:13:37,923 : INFO : Tests.Utilities.LoggerModule : page_width = 309
+2024-01-20 15:13:37,924 : INFO : Tests.Utilities.LoggerModule : image_height = 140
+2024-01-20 15:13:37,924 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 75.40453074433657, Expected: 20
+2024-01-20 15:13:37,924 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.08583690987125, Expected: 50
+2024-01-20 15:13:37,961 : INFO : Tests.Utilities.LoggerModule : image_width = 233
+2024-01-20 15:13:37,961 : INFO : Tests.Utilities.LoggerModule : page_width = 309
+2024-01-20 15:13:37,961 : INFO : Tests.Utilities.LoggerModule : image_height = 140
+2024-01-20 15:13:37,961 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 75.40453074433657, Expected: 20
+2024-01-20 15:13:37,961 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.08583690987125, Expected: 50
+2024-01-20 15:20:00,471 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 309
+2024-01-20 15:20:00,527 : INFO : Tests.Utilities.LoggerModule : image_width = 233
+2024-01-20 15:20:00,527 : INFO : Tests.Utilities.LoggerModule : page_width = 309
+2024-01-20 15:20:00,527 : INFO : Tests.Utilities.LoggerModule : image_height = 140
+2024-01-20 15:20:00,527 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 75.40453074433657, Expected: 20
+2024-01-20 15:20:00,527 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.08583690987125, Expected: 50
+2024-01-20 15:20:00,564 : INFO : Tests.Utilities.LoggerModule : image_width = 233
+2024-01-20 15:20:00,564 : INFO : Tests.Utilities.LoggerModule : page_width = 309
+2024-01-20 15:20:00,564 : INFO : Tests.Utilities.LoggerModule : image_height = 140
+2024-01-20 15:20:00,564 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 75.40453074433657, Expected: 20
+2024-01-20 15:20:00,564 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.08583690987125, Expected: 50
+2024-01-20 15:21:01,724 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 309
+2024-01-20 15:21:01,785 : INFO : Tests.Utilities.LoggerModule : image_width = 233
+2024-01-20 15:21:01,785 : INFO : Tests.Utilities.LoggerModule : page_width = 309
+2024-01-20 15:21:01,785 : INFO : Tests.Utilities.LoggerModule : image_height = 140
+2024-01-20 15:21:01,785 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 75.40453074433657, Expected: 20
+2024-01-20 15:21:01,785 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.08583690987125, Expected: 50
+2024-01-20 15:21:01,840 : INFO : Tests.Utilities.LoggerModule : image_width = 233
+2024-01-20 15:21:01,840 : INFO : Tests.Utilities.LoggerModule : page_width = 309
+2024-01-20 15:21:01,840 : INFO : Tests.Utilities.LoggerModule : image_height = 140
+2024-01-20 15:21:01,840 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 75.40453074433657, Expected: 20
+2024-01-20 15:21:01,841 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.08583690987125, Expected: 50
+2024-01-20 15:22:37,804 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 309
+2024-01-20 15:22:37,839 : INFO : Tests.Utilities.LoggerModule : image_width = 233
+2024-01-20 15:22:37,839 : INFO : Tests.Utilities.LoggerModule : page_width = 309
+2024-01-20 15:22:37,839 : INFO : Tests.Utilities.LoggerModule : image_height = 140
+2024-01-20 15:22:37,839 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 75.40453074433657, Expected: 20
+2024-01-20 15:22:37,839 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.08583690987125, Expected: 50
+2024-01-20 15:22:37,854 : INFO : Tests.Utilities.LoggerModule : image_width = 233
+2024-01-20 15:22:37,854 : INFO : Tests.Utilities.LoggerModule : page_width = 309
+2024-01-20 15:22:37,854 : INFO : Tests.Utilities.LoggerModule : image_height = 140
+2024-01-20 15:22:37,854 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 75.40453074433657, Expected: 20
+2024-01-20 15:22:37,855 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.08583690987125, Expected: 50
+2024-01-20 15:24:04,598 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 309
+2024-01-20 15:34:00,443 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 309
+2024-01-20 15:36:50,894 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 500
+2024-01-20 15:41:52,189 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 1484
+2024-01-20 15:41:52,494 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-20 15:41:52,505 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  hshynvy mtchyl bmvdavt
+2024-01-20 15:41:52,539 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 15:41:52,539 : INFO : Tests.Utilities.LoggerModule : page_width = 1484
+2024-01-20 15:41:52,539 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 15:41:52,540 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 33.692722371967655, Expected: 20
+2024-01-20 15:41:52,540 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 15:41:52,552 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 15:41:52,552 : INFO : Tests.Utilities.LoggerModule : page_width = 1484
+2024-01-20 15:41:52,552 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 15:41:52,554 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 33.692722371967655, Expected: 20
+2024-01-20 15:41:52,554 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 15:42:57,339 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 1500
+2024-01-20 15:42:57,708 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-20 15:42:57,720 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  hshynvy mtchyl bmvdavt
+2024-01-20 15:42:57,753 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 15:42:57,754 : INFO : Tests.Utilities.LoggerModule : page_width = 1500
+2024-01-20 15:42:57,754 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 15:42:57,754 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 33.33333333333333, Expected: 20
+2024-01-20 15:42:57,754 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 15:42:57,771 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 15:42:57,771 : INFO : Tests.Utilities.LoggerModule : page_width = 1500
+2024-01-20 15:42:57,771 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 15:42:57,771 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 33.33333333333333, Expected: 20
+2024-01-20 15:42:57,771 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 15:48:28,947 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 1500
+2024-01-20 15:48:29,417 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-20 15:48:29,430 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  hshynvy mtchyl bmvdavt
+2024-01-20 15:48:29,479 : INFO : Tests.Utilities.LoggerModule : image_src = http://antisemitism.kab.co.il/wp-content/uploads/sites/2/2022/04/Antisemitism_pics_500x300_13-1.jpg
+2024-01-20 15:48:29,479 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 15:48:29,479 : INFO : Tests.Utilities.LoggerModule : page_width = 1500
+2024-01-20 15:48:29,479 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 15:48:29,479 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 33.33333333333333, Expected: 20
+2024-01-20 15:48:29,480 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 15:48:29,522 : INFO : Tests.Utilities.LoggerModule : image_src = http://antisemitism.kab.co.il/wp-content/uploads/sites/2/2019/01/Antisemitism_pics_500x300.jpg
+2024-01-20 15:48:29,522 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 15:48:29,522 : INFO : Tests.Utilities.LoggerModule : page_width = 1500
+2024-01-20 15:48:29,522 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 15:48:29,522 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 33.33333333333333, Expected: 20
+2024-01-20 15:48:29,522 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 15:51:19,328 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 800
+2024-01-20 17:07:54,462 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 1920
+2024-01-20 17:08:15,088 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-20 17:08:15,088 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  hshynvy mtchyl bmvdavt
+2024-01-20 17:08:15,122 : INFO : Tests.Utilities.LoggerModule : image_src = http://antisemitism.kab.co.il/wp-content/uploads/sites/2/2022/04/Antisemitism_pics_500x300_13-1.jpg
+2024-01-20 17:08:15,122 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 17:08:15,122 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 17:08:15,122 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 17:08:15,122 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 26.041666666666668, Expected: 20
+2024-01-20 17:08:15,122 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 17:08:15,135 : INFO : Tests.Utilities.LoggerModule : image_src = http://antisemitism.kab.co.il/wp-content/uploads/sites/2/2019/01/Antisemitism_pics_500x300.jpg
+2024-01-20 17:08:15,135 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 17:08:15,135 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 17:08:15,135 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 17:08:15,135 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 26.041666666666668, Expected: 20
+2024-01-20 17:08:15,135 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 17:08:15,225 : INFO : Tests.Utilities.LoggerModule : video_title: lmh shvnaym yhvdym?
+2024-01-20 17:08:15,225 : INFO : Tests.Utilities.LoggerModule : video_width = 1080
+2024-01-20 17:08:15,225 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 17:08:15,225 : INFO : Tests.Utilities.LoggerModule : video_height = 608
+2024-01-20 17:08:15,225 : INFO : Tests.Utilities.LoggerModule : (video_width / page_width) * 100 = 56.25
+2024-01-20 17:08:15,225 : INFO : Tests.Utilities.LoggerModule : (video_width / video_height) * 100 = 56.2962962962963
+2024-01-20 17:08:16,017 : INFO : Tests.Utilities.LoggerModule : All http links: 116, all unique http links:, 28
+2024-01-20 17:08:20,525 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/#donoation_popup is accessible. Status code: 200
+2024-01-20 17:08:21,859 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/Antisemitism/book/ is accessible. Status code: 200
+2024-01-20 17:08:22,888 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a9%d7%a0%d7%90%d7%94-%d7%91%d7%aa-%d7%a9%d7%a0%d7%95%d7%aa-%d7%90%d7%9c%d7%a4%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:08:23,821 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a1%d7%93%d7%a8%d7%99-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa-%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%91%d7%a0%d7%99-%d7%91%d7%a8%d7%95%d7%9a-%d7%a7%d7%91%d7%9c%d7%94-%d7%9c%d7%a2%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:08:24,852 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%9e%d7%a9%d7%9c%d7%97%d7%aa-%d7%a9%d7%a2%d7%95%d7%a8%d7%a8%d7%94-%d7%a9%d7%a0%d7%90%d7%94/ is accessible. Status code: 200
+2024-01-20 17:08:25,822 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/book/ is accessible. Status code: 200
+2024-01-20 17:08:26,431 : INFO : Tests.Utilities.LoggerModule : Link https://he.wikipedia.org/wiki/%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%97%D7%91%D7%A8%D7%AA%D7%99#%D7%94%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%94%D7%97%D7%91%D7%A8%D7%AA%D7%99_%D7%9B%D7%91%D7%A1%D7%99%D7%A1_%D7%9C%D7%90%D7%A0%D7%98%D7%99%D7%A9%D7%9E%D7%99%D7%95%D7%AA is accessible. Status code: 200
+2024-01-20 17:08:27,438 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%9c%d7%a9%d7%9b%d7%95%d7%97-%d7%9c%d7%94%d7%9b%d7%97%d7%99%d7%a9/ is accessible. Status code: 200
+2024-01-20 17:08:28,442 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a1%d7%99%d7%95%d7%98%d7%99%d7%9d-%d7%a7%d7%95%d7%9c%d7%a7%d7%98%d7%99%d7%91%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:08:29,752 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%A4%D7%A8%D7%95%D7%99%D7%99%D7%A7%D7%98%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-20 17:08:30,781 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-20 17:08:32,399 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9c%d7%a2%d7%9e%d7%95%d7%93-%d7%95%d7%9c%d7%9e%d7%a8%d7%95%d7%93/ is accessible. Status code: 200
+2024-01-20 17:08:36,722 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-20 17:08:38,086 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-20 17:08:39,233 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a4%d7%a8%d7%95%d7%99%d7%99%d7%a7%d7%98%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:08:39,925 : INFO : Tests.Utilities.LoggerModule : Link https://www.facebook.com/kabcoil is accessible. Status code: 200
+2024-01-20 17:08:40,196 : INFO : Tests.Utilities.LoggerModule : Link http://www.kabbalah.info/common/privacy/he/ is accessible. Status code: 200
+2024-01-20 17:08:44,640 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-20 17:08:45,679 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%94-%d7%a7%d7%a0%d7%99%d7%94-%d7%95%d7%95%d7%a1%d7%98-%d7%9e%d7%9b%d7%91%d7%93/ is accessible. Status code: 200
+2024-01-20 17:08:45,960 : INFO : Tests.Utilities.LoggerModule : Link http://vimeo.com/user/68957132/folder/9945573 is accessible. Status code: 200
+2024-01-20 17:08:47,200 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:08:47,893 : INFO : Tests.Utilities.LoggerModule : Link https://www.youtube.com/channel/UCa6-draLJDKghoHQ4acR1qQ is accessible. Status code: 200
+2024-01-20 17:08:48,995 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-20 17:08:53,349 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/# is accessible. Status code: 200
+2024-01-20 17:08:54,648 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-20 17:08:55,560 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA/ is accessible. Status code: 200
+2024-01-20 17:08:56,646 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a6%d7%99%d7%98%d7%95%d7%98%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%a7%d7%95%d7%a8%d7%95%d7%aa-%d7%91%d7%a0%d7%95%d7%a9%d7%90-%d7%aa%d7%a4%d7%a7%d7%99%d7%93-%d7%a2%d7%9d-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/ is accessible. Status code: 200
+2024-01-20 17:10:18,201 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 800
+2024-01-20 17:11:59,709 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 800
+2024-01-20 17:12:20,174 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-20 17:12:20,174 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  hshynvy mtchyl bmvdavt
+2024-01-20 17:12:20,225 : INFO : Tests.Utilities.LoggerModule : image_src = http://antisemitism.kab.co.il/wp-content/uploads/sites/2/2022/04/Antisemitism_pics_500x300_13-1.jpg
+2024-01-20 17:12:20,225 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 17:12:20,225 : INFO : Tests.Utilities.LoggerModule : page_width = 800
+2024-01-20 17:12:20,225 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 17:12:20,225 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 62.5, Expected: 20
+2024-01-20 17:12:20,225 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 17:12:20,246 : INFO : Tests.Utilities.LoggerModule : image_src = http://antisemitism.kab.co.il/wp-content/uploads/sites/2/2019/01/Antisemitism_pics_500x300.jpg
+2024-01-20 17:12:20,246 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 17:12:20,246 : INFO : Tests.Utilities.LoggerModule : page_width = 800
+2024-01-20 17:12:20,246 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 17:12:20,246 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 62.5, Expected: 20
+2024-01-20 17:12:20,247 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 17:12:20,335 : INFO : Tests.Utilities.LoggerModule : video_title: lmh shvnaym yhvdym?
+2024-01-20 17:12:20,335 : INFO : Tests.Utilities.LoggerModule : video_width = 626
+2024-01-20 17:12:20,335 : INFO : Tests.Utilities.LoggerModule : page_width = 800
+2024-01-20 17:12:20,336 : INFO : Tests.Utilities.LoggerModule : video_height = 353
+2024-01-20 17:12:20,336 : INFO : Tests.Utilities.LoggerModule : (video_width / page_width) * 100 = 78.25
+2024-01-20 17:12:20,336 : INFO : Tests.Utilities.LoggerModule : (video_width / video_height) * 100 = 56.38977635782748
+2024-01-20 17:12:21,260 : INFO : Tests.Utilities.LoggerModule : All http links: 116, all unique http links:, 28
+2024-01-20 17:12:22,382 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a6%d7%99%d7%98%d7%95%d7%98%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%a7%d7%95%d7%a8%d7%95%d7%aa-%d7%91%d7%a0%d7%95%d7%a9%d7%90-%d7%aa%d7%a4%d7%a7%d7%99%d7%93-%d7%a2%d7%9d-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/ is accessible. Status code: 200
+2024-01-20 17:12:23,435 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a9%d7%a0%d7%90%d7%94-%d7%91%d7%aa-%d7%a9%d7%a0%d7%95%d7%aa-%d7%90%d7%9c%d7%a4%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:12:24,691 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-20 17:12:25,692 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a1%d7%99%d7%95%d7%98%d7%99%d7%9d-%d7%a7%d7%95%d7%9c%d7%a7%d7%98%d7%99%d7%91%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:12:26,618 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-20 17:12:27,782 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-20 17:12:28,802 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%94-%d7%a7%d7%a0%d7%99%d7%94-%d7%95%d7%95%d7%a1%d7%98-%d7%9e%d7%9b%d7%91%d7%93/ is accessible. Status code: 200
+2024-01-20 17:12:29,989 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a4%d7%a8%d7%95%d7%99%d7%99%d7%a7%d7%98%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:12:30,920 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9c%d7%a2%d7%9e%d7%95%d7%93-%d7%95%d7%9c%d7%9e%d7%a8%d7%95%d7%93/ is accessible. Status code: 200
+2024-01-20 17:12:31,858 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/book/ is accessible. Status code: 200
+2024-01-20 17:12:32,789 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA/ is accessible. Status code: 200
+2024-01-20 17:12:33,021 : INFO : Tests.Utilities.LoggerModule : Link http://www.kabbalah.info/common/privacy/he/ is accessible. Status code: 200
+2024-01-20 17:12:33,957 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a1%d7%93%d7%a8%d7%99-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa-%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%91%d7%a0%d7%99-%d7%91%d7%a8%d7%95%d7%9a-%d7%a7%d7%91%d7%9c%d7%94-%d7%9c%d7%a2%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:12:35,308 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%9c%d7%a9%d7%9b%d7%95%d7%97-%d7%9c%d7%94%d7%9b%d7%97%d7%99%d7%a9/ is accessible. Status code: 200
+2024-01-20 17:12:36,651 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/Antisemitism/book/ is accessible. Status code: 200
+2024-01-20 17:12:41,035 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/#donoation_popup is accessible. Status code: 200
+2024-01-20 17:12:42,102 : INFO : Tests.Utilities.LoggerModule : Link https://www.youtube.com/channel/UCa6-draLJDKghoHQ4acR1qQ is accessible. Status code: 200
+2024-01-20 17:12:43,588 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%A4%D7%A8%D7%95%D7%99%D7%99%D7%A7%D7%98%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-20 17:12:44,250 : INFO : Tests.Utilities.LoggerModule : Link https://www.facebook.com/kabcoil is accessible. Status code: 200
+2024-01-20 17:12:48,918 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-20 17:12:50,284 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-20 17:12:54,493 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-20 17:12:55,743 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:12:56,305 : INFO : Tests.Utilities.LoggerModule : Link https://he.wikipedia.org/wiki/%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%97%D7%91%D7%A8%D7%AA%D7%99#%D7%94%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%94%D7%97%D7%91%D7%A8%D7%AA%D7%99_%D7%9B%D7%91%D7%A1%D7%99%D7%A1_%D7%9C%D7%90%D7%A0%D7%98%D7%99%D7%A9%D7%9E%D7%99%D7%95%D7%AA is accessible. Status code: 200
+2024-01-20 17:12:58,336 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%9e%d7%a9%d7%9c%d7%97%d7%aa-%d7%a9%d7%a2%d7%95%d7%a8%d7%a8%d7%94-%d7%a9%d7%a0%d7%90%d7%94/ is accessible. Status code: 200
+2024-01-20 17:13:03,073 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/# is accessible. Status code: 200
+2024-01-20 17:13:03,326 : INFO : Tests.Utilities.LoggerModule : Link http://vimeo.com/user/68957132/folder/9945573 is accessible. Status code: 200
+2024-01-20 17:16:23,394 : INFO : Tests.Utilities.LoggerModule : page_width_from_conftest = 1920
+2024-01-20 17:16:43,784 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  antyshmyvt hsypvr hamyty!
+2024-01-20 17:16:43,793 : INFO : Tests.Utilities.LoggerModule : Single Locator: Element with following locator was displayed properly:  hshynvy mtchyl bmvdavt
+2024-01-20 17:16:43,825 : INFO : Tests.Utilities.LoggerModule : image_src = http://antisemitism.kab.co.il/wp-content/uploads/sites/2/2022/04/Antisemitism_pics_500x300_13-1.jpg
+2024-01-20 17:16:43,825 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 17:16:43,825 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 17:16:43,825 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 17:16:43,825 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 26.041666666666668, Expected: 20
+2024-01-20 17:16:43,825 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 17:16:43,841 : INFO : Tests.Utilities.LoggerModule : image_src = http://antisemitism.kab.co.il/wp-content/uploads/sites/2/2019/01/Antisemitism_pics_500x300.jpg
+2024-01-20 17:16:43,841 : INFO : Tests.Utilities.LoggerModule : image_width = 500
+2024-01-20 17:16:43,841 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 17:16:43,841 : INFO : Tests.Utilities.LoggerModule : image_height = 300
+2024-01-20 17:16:43,841 : INFO : Tests.Utilities.LoggerModule : (Image: width / page_width) * 100 = 26.041666666666668, Expected: 20
+2024-01-20 17:16:43,841 : INFO : Tests.Utilities.LoggerModule : (Image: width / height) * 100 = 60.0, Expected: 50
+2024-01-20 17:16:43,928 : INFO : Tests.Utilities.LoggerModule : video_title: lmh shvnaym yhvdym?
+2024-01-20 17:16:43,928 : INFO : Tests.Utilities.LoggerModule : video_width = 1080
+2024-01-20 17:16:43,928 : INFO : Tests.Utilities.LoggerModule : page_width = 1920
+2024-01-20 17:16:43,928 : INFO : Tests.Utilities.LoggerModule : video_height = 608
+2024-01-20 17:16:43,933 : INFO : Tests.Utilities.LoggerModule : (video_width / page_width) * 100 = 56.25
+2024-01-20 17:16:43,933 : INFO : Tests.Utilities.LoggerModule : (video_width / video_height) * 100 = 56.2962962962963
+2024-01-20 17:16:44,773 : INFO : Tests.Utilities.LoggerModule : All http links: 116, all unique http links:, 28
+2024-01-20 17:16:45,838 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a6%d7%99%d7%98%d7%95%d7%98%d7%99%d7%9d-%d7%9e%d7%94%d7%9e%d7%a7%d7%95%d7%a8%d7%95%d7%aa-%d7%91%d7%a0%d7%95%d7%a9%d7%90-%d7%aa%d7%a4%d7%a7%d7%99%d7%93-%d7%a2%d7%9d-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/ is accessible. Status code: 200
+2024-01-20 17:16:47,795 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%9E%D7%90%D7%9E%D7%A8%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-20 17:16:48,376 : INFO : Tests.Utilities.LoggerModule : Link https://he.wikipedia.org/wiki/%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%97%D7%91%D7%A8%D7%AA%D7%99#%D7%94%D7%93%D7%A8%D7%95%D7%95%D7%99%D7%A0%D7%99%D7%96%D7%9D_%D7%94%D7%97%D7%91%D7%A8%D7%AA%D7%99_%D7%9B%D7%91%D7%A1%D7%99%D7%A1_%D7%9C%D7%90%D7%A0%D7%98%D7%99%D7%A9%D7%9E%D7%99%D7%95%D7%AA is accessible. Status code: 200
+2024-01-20 17:16:49,391 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a9%d7%a0%d7%90%d7%94-%d7%91%d7%aa-%d7%a9%d7%a0%d7%95%d7%aa-%d7%90%d7%9c%d7%a4%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:16:50,694 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%D7%A4%D7%A8%D7%95%D7%99%D7%99%D7%A7%D7%98%D7%99%D7%9D/ is accessible. Status code: 200
+2024-01-20 17:16:55,034 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/# is accessible. Status code: 200
+2024-01-20 17:16:55,984 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9c%d7%a2%d7%9e%d7%95%d7%93-%d7%95%d7%9c%d7%9e%d7%a8%d7%95%d7%93/ is accessible. Status code: 200
+2024-01-20 17:16:56,689 : INFO : Tests.Utilities.LoggerModule : Link https://www.youtube.com/channel/UCa6-draLJDKghoHQ4acR1qQ is accessible. Status code: 200
+2024-01-20 17:16:56,963 : INFO : Tests.Utilities.LoggerModule : Link http://vimeo.com/user/68957132/folder/9945573 is accessible. Status code: 200
+2024-01-20 17:16:57,880 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%90%d7%95%d7%93%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-20 17:16:59,017 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a4%d7%a8%d7%95%d7%99%d7%99%d7%a7%d7%98%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:17:00,155 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/Antisemitism/book/ is accessible. Status code: 200
+2024-01-20 17:17:01,357 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:17:01,581 : INFO : Tests.Utilities.LoggerModule : Link http://www.kabbalah.info/common/privacy/he/ is accessible. Status code: 200
+2024-01-20 17:17:05,935 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/#donoation_popup is accessible. Status code: 200
+2024-01-20 17:17:10,513 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/ is accessible. Status code: 200
+2024-01-20 17:17:11,435 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%D7%90%D7%95%D7%93%D7%95%D7%AA/ is accessible. Status code: 200
+2024-01-20 17:17:12,437 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%9e%d7%a9%d7%9c%d7%97%d7%aa-%d7%a9%d7%a2%d7%95%d7%a8%d7%a8%d7%94-%d7%a9%d7%a0%d7%90%d7%94/ is accessible. Status code: 200
+2024-01-20 17:17:13,332 : INFO : Tests.Utilities.LoggerModule : Link https://www.facebook.com/kabcoil is accessible. Status code: 200
+2024-01-20 17:17:14,241 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%94%d7%a1%d7%93%d7%a8%d7%99-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa-%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%91%d7%a0%d7%99-%d7%91%d7%a8%d7%95%d7%9a-%d7%a7%d7%91%d7%9c%d7%94-%d7%9c%d7%a2%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:17:15,237 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a1%d7%99%d7%95%d7%98%d7%99%d7%9d-%d7%a7%d7%95%d7%9c%d7%a7%d7%98%d7%99%d7%91%d7%99%d7%99%d7%9d/ is accessible. Status code: 200
+2024-01-20 17:17:16,240 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%9e%d7%94-%d7%a7%d7%a0%d7%99%d7%94-%d7%95%d7%95%d7%a1%d7%98-%d7%9e%d7%9b%d7%91%d7%93/ is accessible. Status code: 200
+2024-01-20 17:17:17,205 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%91%d7%9e%d7%a7%d7%95%d7%9d-%d7%9c%d7%a9%d7%9b%d7%95%d7%97-%d7%9c%d7%94%d7%9b%d7%97%d7%99%d7%a9/ is accessible. Status code: 200
+2024-01-20 17:17:18,148 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/book/ is accessible. Status code: 200
+2024-01-20 17:17:19,223 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-20 17:17:20,503 : INFO : Tests.Utilities.LoggerModule : Link http://antisemitism.kab.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/ is accessible. Status code: 200
+2024-01-20 17:17:24,843 : INFO : Tests.Utilities.LoggerModule : Link https://antisemitism.kab.co.il/ is accessible. Status code: 200
